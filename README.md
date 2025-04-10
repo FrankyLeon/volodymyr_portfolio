@@ -2,18 +2,12 @@
 
 > Check it out [here](https://podryhun.netlify.app)
 
-### Light-House Report ⚡️
-
-![Light House Report](https://raw.githubusercontent.com/AsaoluElijah/portfolio/master/light-house-report.png)
-
 ### Technologies + Tools used 
 
 - [NuxtJs](https://nuxtjs.org/)
 - [Bootstrap-vue](https://bootstrap-vue.org/)
 - [Vue-ionicons](https://github.com/mazipan/vue-ionicons)
 - [Animate.css](https://animate.style/)
-
-![Built With NuxtJs](https://d33wubrfki0l68.cloudfront.net/932e75305b64df2a3226eb7307dcdc9e771448d8/37936/logos/built-with-nuxt.svg)
 
 ### Build Setup
 
